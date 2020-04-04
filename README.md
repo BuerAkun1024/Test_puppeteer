@@ -33,7 +33,7 @@ it('shoule get correct list',async function(){
 2. 完成待办事项
 
 ```js
-//删除todolist中的一个item
+//完成todolist中的一个item
 it('should complete seccessfully', async function(){
   const _before = await page.$eval('#todo-count > strong',el => el.value);
   await page.click('#todo-list > li:nth-child(1) > div > input',{delay:50});
