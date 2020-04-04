@@ -46,5 +46,5 @@ it('should complete seccessfully', async function(){
 
 3. 最终截图
 
-![pic](.\测试截图.png)
+![pic](https://github.com/BuerAkun1024/Test_puppeteer/blob/master/%E6%B5%8B%E8%AF%95%E6%88%AA%E5%9B%BE.png)
 
